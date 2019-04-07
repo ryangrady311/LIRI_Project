@@ -8,9 +8,3 @@ exports.Spotify = {
  
 };
 
-exports.OMBD = {
-    id: process.env.OMBD_ID,
-
- 
-};
-
